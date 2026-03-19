@@ -56,8 +56,9 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢
-|                          |
+|       1201:34           |         68:1205
+|       1202:12           |         00:1206
+|       1203:34           |         c4:1207
 
 #### Manual Calculations
 <img width="1541" height="969" alt="image" src="https://github.com/user-attachments/assets/78602c1d-a50f-4130-9662-d5f94f3e8381" />
@@ -66,7 +67,8 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="639" height="186" alt="image" src="https://github.com/user-attachments/assets/7ee81ba9-272b-4abf-8430-2fa4bfeee6bc" />
+<img width="801" height="508" alt="image" src="https://github.com/user-attachments/assets/3e017090-6938-450b-af0f-9079a3eefaca" />
+
 
 
 ## 2. SUBTRACTION
@@ -106,10 +108,12 @@ END
 
 
 #### Output Table
-
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       1201:34           |         68:1205
+|       1202:12           |         00:1206
+|       1203:34           |         c4:1207
+
 
 #### Manual Calculations
 
@@ -120,7 +124,9 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="635" height="148" alt="image" src="https://github.com/user-attachments/assets/c0ff4366-8297-48b0-883a-8e7390b0673b" />
+<img width="812" height="500" alt="image" src="https://github.com/user-attachments/assets/effcdb1e-81dd-4f5c-b8a4-0fe573c5dc1a" />
+
+
 
 
 ## 3. MULTIPLICATION
@@ -171,7 +177,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="639" height="176" alt="image" src="https://github.com/user-attachments/assets/f137b518-73ff-49e9-9103-d05d3b878037" />
+<img width="808" height="510" alt="image" src="https://github.com/user-attachments/assets/991ca36e-801d-409b-93c2-b2b754f023a5" />
+
 
 
 ## 4. DIVISION
@@ -219,7 +226,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-<img width="635" height="172" alt="image" src="https://github.com/user-attachments/assets/fbdcf968-220e-42ce-9352-f023ef90e17a" />
+<img width="805" height="492" alt="image" src="https://github.com/user-attachments/assets/bc7662ad-d62e-4a6f-98bc-b0c7aba96b4a" />
+
 
 
 
